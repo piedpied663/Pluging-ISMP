@@ -1,5 +1,16 @@
 # Pluging-ISMP
-Torch Pluging 
+Torch Pluging Allow you to restrict IngameScript for normal players.
+
+
+Entities BYPASS Restrictions :
+
+Any NPC factions
+Scripter Rôle
+Space Master
+Moderator
+Administrator
+Owner
+
 # Two Ways for use
 
 # UI Torch
